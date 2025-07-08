@@ -30,5 +30,5 @@ Apply machine learning algorithms
 
 Evaluate model performance
 
-# OUTPUT
+# DATA
 [fake_sales_data-checkpoint.csv](https://github.com/user-attachments/files/21115349/fake_sales_data-checkpoint.csv)
