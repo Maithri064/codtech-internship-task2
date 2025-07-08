@@ -29,3 +29,6 @@ Engineer target features
 Apply machine learning algorithms
 
 Evaluate model performance
+
+# OUTPUT
+[fake_sales_data-checkpoint.csv](https://github.com/user-attachments/files/21115349/fake_sales_data-checkpoint.csv)
